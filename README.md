@@ -24,3 +24,10 @@
 ### 权重文件获取链接：
 * （1）vision_transformer网络使用迁移学习所用的预训练权重文件：[vit_base_patch16_224_in21k.pth](https://drive.google.com/file/d/1psvtt5iSWINWk6ePg5K-vTmVAXxU9JRZ/view?usp=sharing)
 * （2）vision_transformer网络使用迁移学习训练得到的权重文件：[ViT_best.pth](https://drive.google.com/file/d/1bZQ38N9Ys6uK82MOQt02r4WqDJ2S1821/view?usp=sharing)
+### 信息及维护时间：
+```
+作者：林飞
+创建：2022-05-17
+更新：2022-05-22
+目的：使用vision_transformer网络对Masked-Face-Dataset数据集进行训练，完成图像分类任务（是否带帽子）。
+```
