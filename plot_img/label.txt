@@ -1,0 +1,4 @@
+1.jpg  No_hat
+2.jpg  No_hat
+3.jpg  With_hat
+4.jpg  With_hat
